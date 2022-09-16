@@ -1,13 +1,6 @@
-function randomHeight(){
-        return Math.random(100,1000);
-}
-function randomWidth(){
-        return Math.random(100,1000);
-}
-
 function NewTab() {
             window.open(
-            "index.html", "_blank","width=randomWidth(),height=randomHeight()");
+            "index.html", "_blank","width=100%,height=100%","fullscreen=1);
         }
 
 for (var i = 0; i < Infinity; i++) {
